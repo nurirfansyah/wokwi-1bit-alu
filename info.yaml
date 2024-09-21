@@ -7,7 +7,7 @@
 # This will be automatically collected and used to make a datasheet for the chip.
 project: 
   author:       "Leo Moser"      # Your name
-  title:        "1-bit ALU"      # Project title
+  title:        "1-bit ALU test"      # Project title
   description:  "1-bit ALU from the book `Structured Computer Organization: Andrew S. Tanenbaum`"      # Short description of what your project does
   how_it_works: "The 1-bit ALU implements 4 different operations: AND, NOT, OR, ADD.
                  
